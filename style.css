@@ -1,0 +1,18 @@
+h1{
+  display: flex;
+  justify-content: center;
+}
+ul{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  list-style: none;
+}
+
+img {
+  list-style: none;
+}
+
+.profile {
+  padding: 4em;
+}
